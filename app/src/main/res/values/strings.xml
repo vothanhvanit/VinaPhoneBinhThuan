@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VinaPhoneBinhThuan</string>
+    <string name="ten_dang_nhap">Tên Đăng nhập</string>
+    <string name="login">Đăng nhập</string>
+    <string name="mat_khau">Mật khẩu</string>
+    <string name="header_1">Đăng ký</string>
+    <string name="input_number_promb">Nhập số điện thoại</string>
+    <string name="search_phone">Tìm số ngoại mạng</string>
+
+</resources>
